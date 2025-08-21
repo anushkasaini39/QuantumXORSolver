@@ -1,1 +1,1 @@
-# QuantumXORSolver
+# QuantumXORSolver </br> quantum xor solver
